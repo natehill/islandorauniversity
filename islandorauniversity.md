@@ -9,9 +9,9 @@ We encourage you to with to start with this introductory session, operating unde
 ## What is Islandora?
 * Objects and Datastreams
 * Full explanation of the stack, all components
-..* Drupal
-..* SOLR
-..* Fedora
+    * Drupal
+    * SOLR
+    * Fedora
 What can it be used for? What is it not so good at?
 How does it compare to other solutions, is it right for you?
 How will I use Islandora on a daily basis: what resources will I need, and what will I need to know in order to do that comfortably?
