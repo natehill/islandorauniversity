@@ -1,7 +1,5 @@
 # Islandora University
 
-Thank you for your request for an Islandora training proposal. In order to develop a set of classes that is ideal for you, we are first presenting you with an overview of (almost) all the possibilities. Please review what you see here and indicate what parts you feel are most important for your situation. After this, we can develop a custom educational package for your needs, come up with a timeline and quote you a price.
-
 ## Islandora 101: An Introduction - 2 days 
 
 We encourage you to with to start with this introductory session, operating under the assumption that “you don’t really know what you don’t know”. 
